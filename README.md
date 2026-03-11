@@ -1,36 +1,60 @@
 # Hi, I'm Taynara Bezzon 👋
 
-**Data Analyst | Chemical Engineer | Data Science Specialist**
+**Data Analyst | Chemical Engineer | Data Science & Advanced Analytics**
 
-I bridge the gap between complex industrial processes and data-driven strategy. With a solid foundation in **Chemical Engineering** and a **Postgraduate degree in Data Science & Advanced Analytics**, I specialize in transforming raw datasets into actionable business insights.
+I work at the intersection of **engineering, data analytics and business strategy**, transforming complex datasets into insights that support better decision-making.
 
-Currently, at **3M**, I focus on structuring technical data, monitoring KPIs, and developing strategic dashboards to support high-level decision-making.
+With a background in **Chemical Engineering** and a **Postgraduate degree in Data Science & Advanced Analytics**, I combine analytical thinking, statistical methods and data visualization to solve real-world problems.
 
----
+Currently at **3M**, I focus on structuring technical data, monitoring KPIs and developing analytical dashboards that support strategic and operational decisions.
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL.
-* **Data Viz:** Power BI, Matplotlib, Seaborn.
-* **Analytics:** Statistics, Minitab, ETL processes, Feature Engineering.
-* **Cloud & DevOps:** Azure ML, Git/GitHub.
+## 🛠️ Tech Stack
 
----
+**Languages**
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
 
-### 🚀 Featured Projects
+**Data Visualization**
+- Power BI
+- Matplotlib
+- Seaborn
 
-#### 🐍 [Python Data Immersion - Alura](https://github.com/taynarabezzon/Python_Data_Immersion)
-Exploratory Data Analysis (EDA) using Pandas and Matplotlib.Focused on data cleaning, merging datasets, and creating an interactive dashboard with **Streamlit** to answer core business questions.
+**Analytics & Data**
+- Exploratory Data Analysis (EDA)
+- Statistics
+- ETL Processes
+- Feature Engineering
+- Data Cleaning & Transformation
+- Minitab
 
----
+**Tools & Platforms**
+- Git & GitHub
 
-### 📈 How I Drive Value
-* **Industrial Expertise:** Applying analytical rigor from Engineering to Data Science.
-* **Decision-Focused Visuals:** Building dashboards that highlight strategic decisions, not just charts.
-* **Process Optimization:** Passionate about continuous improvement and operational efficiency.
+## 🚀 Featured Project
 
----
+### Python Data Immersion — Alura
 
-### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/taynaracbezzon](https://www.linkedin.com/in/taynaracbezzon)
-* **Email:** taynarabezzon@outlook.com 
+Data analysis project focused on **exploratory data analysis and business insights**.
 
+Key activities:
+- Data cleaning and transformation using **Pandas**
+- Dataset merging and preparation for analysis
+- Visualization with **Matplotlib**
+- Development of an **interactive dashboard with Streamlit** to answer key business questions
+
+## 📊 How I Create Value
+
+🔹 **Engineering + Data Perspective**  
+Applying engineering problem-solving and analytical rigor to data analysis.
+
+🔹 **Decision-Oriented Dashboards**  
+Designing dashboards that highlight **business insights and strategic decisions**, not just visualizations.
+
+🔹 **Process Optimization**  
+Using data analysis to identify inefficiencies and support **continuous improvement and operational performance**.
+
+## 📫 Connect with me
+
+LinkedIn: www.linkedin.com/in/taynaracbezzon
+
+Email: taynarabezzon@outlook.com
