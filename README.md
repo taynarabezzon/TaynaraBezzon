@@ -1,6 +1,6 @@
 # Hi, I'm Taynara Bezzon 👋
 
-**Data Analyst | Chemical Engineer | Data Science & Advanced Analytics**
+**Data Scientist & Chemical Engineer | Python, SQL, FastAPI, Streamlit & Machine Learning.**
 
 I work at the intersection of **engineering, data analytics and business strategy**, transforming complex datasets into insights that support better decision-making.
 
